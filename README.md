@@ -9,7 +9,9 @@ restructured communication flow among 10 departments and cut down paperwork by 7
 It consists of  3-modules basically:
 
 1.Admin Panel
+
 2.Staff Panel
+
 3.Student Panel
 
 
@@ -18,11 +20,19 @@ features:
 1.Dashboards
 
 2.Profile Updation
+
 3.Course Enrollment analysis
+
 4.Attendance Management
+
 5.Notes Sharing
+
 6.Customized Quizzess
+
 7.Leave management
+
 8.Feedback
+
 9.chatbot
+
 10.Notices

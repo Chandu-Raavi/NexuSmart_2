@@ -3,7 +3,9 @@ NEXUSMART(An integrated college management system)
 
 • Managed a process re-engineering project to improve and consolidate end-to-end service processes;
 restructured communication flow among 10 departments and cut down paperwork by 75%.
+
 •This involved transitioning from manual processes to automated digital workflows.
+
 •Technologies used : Python framework DJANGO,HTML,CSS,JAVA SCRIPT,Machine learning,Natural Language Processing.
 
 It consists of  3-modules basically:

@@ -38,3 +38,5 @@ features:
 9.chatbot
 
 10.Notices
+
+11.Carrer Recommender
